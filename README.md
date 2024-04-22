@@ -1,3 +1,3 @@
-# Merge-Conflit
+REMOTE
 Quelques ligne de texte
 Voilà
